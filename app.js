@@ -53,3 +53,4 @@ function generateComputerChoice() {
    }
    resultDisplay.innerHTML = result;
 }
+
