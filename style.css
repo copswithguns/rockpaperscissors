@@ -1,0 +1,14 @@
+body {
+    background-color: darkorange;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    color: white;
+}
+
+button {
+    background-color: black;
+    color: white
+}
